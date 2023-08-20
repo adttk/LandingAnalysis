@@ -1,0 +1,2 @@
+1. file program : preprocessing data
+2. output program akan menghasilkan file csv masing masing tahap preprocessing maupun grouping dengan note note yang dapat dilihat pada folder Data pre-processing dan Data Grouping

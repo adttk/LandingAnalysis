@@ -1,0 +1,8 @@
+,Aircraft_code,Count of normal,Count of abnormal,Percentage normal of all normal data (%),Percentage abnormal of all abnormal data (%)
+0,A20N,14.0,13.0,2.22,3.23
+1,A320,197.0,243.0,31.22,60.45
+2,AT75,9.0,6.0,1.43,1.49
+3,AT76,134.0,43.0,21.24,10.7
+4,B733,0.0,7.0,0.0,1.74
+5,B738,148.0,37.0,23.45,9.2
+6,B739,129.0,53.0,20.44,13.18

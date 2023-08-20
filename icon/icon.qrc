@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>../../../Downloads/touchdown.webp</file>
+    <file>logo.png</file>
+    <file>drop_down.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+,Airline icao,Count of normal,Count of abnormal,Percentage normal of all normal data (%),Percentage abnormal of all abnormal data (%)
+0,AXM,10.0,18.0,1.58,4.48
+1,BTK,116.0,117.0,18.38,29.1
+2,CTV,148.0,29.0,23.45,7.21
+3,GIA,61.0,18.0,9.67,4.48
+4,LNI,131.0,57.0,20.76,14.18
+5,MAS,9.0,0.0,1.43,0.0
+6,SJV,69.0,123.0,10.94,30.6
+7,TGW,1.0,0.0,0.16,0.0
+8,TMG,0.0,7.0,0.0,1.74
+9,WON,86.0,33.0,13.63,8.21

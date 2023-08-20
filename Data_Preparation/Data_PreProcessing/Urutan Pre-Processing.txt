@@ -1,0 +1,9 @@
+1. Hapus atribut yang tidak dibutuhkan
+2. Ambil touchdown dan sebelum touchdown
+-urutkan data berdasarkan 
+-ambil data terakhir altitud > 0 dan data pertama altitude = 0 
+3. Mengambil data tier 1
+- tambahkan atribut selisih timestamp
+- hitung selisih timestamp data touchdown dan sebelum touchdown
+- ambil data yang kategori tier 1
+4. Menyesuaikan data yang salah atau kosong
